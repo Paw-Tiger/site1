@@ -11,7 +11,7 @@ include __DIR__ . '/lib.php';
 <table border="1" width="100%">
     <tr>
         <td colspan="2" align="center">
-            Привет
+            Привет мир
             <?php
             include __DIR__ . DS . 'header.php';
             ?>
